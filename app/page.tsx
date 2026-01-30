@@ -79,6 +79,7 @@ export default function Home() {
                 alt={symbol}
                 width={40}
                 height={40}
+                unoptimized
                 className="rounded-full"
               />
 
