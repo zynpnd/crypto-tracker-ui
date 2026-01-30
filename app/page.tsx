@@ -15,10 +15,11 @@ type ApiResponse = {
 };
 
 const COIN_LOGOS: Record<string, string> = {
-  BTC: "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
-  ETH: "https://cryptologos.cc/logos/ethereum-eth-logo.png",
-  SOL: "https://cryptologos.cc/logos/solana-sol-logo.png",
+  BTC: "/coins/bitcoin.png",
+  ETH: "/coins/ethereum.png",
+  SOL: "/coins/solana.png",
 };
+
 
 function SkeletonCard() {
   return (
