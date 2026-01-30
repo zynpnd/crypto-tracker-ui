@@ -3,6 +3,9 @@
 A simple crypto price dashboard built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**.  
 It displays live BTC, ETH, and SOL prices by consuming a backend API.
 
+## 🚀 Live Demo
+🔗 https://crypto-tracker-ui.onrender.com/
+
 ## ✨ Features
 - Live crypto prices (BTC, ETH, SOL)
 - Card-based responsive UI
